@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title">Dawn of Islam! </h1>
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+     <audio id="maqamatSound" src="https://www.thesufi.com/20-Greatest-Manqabat-Ever/manqabat-imam-ali-mir-hasan-mir-2016.mp3" preload="auto" autoplay loop controls></audio>
+
+  </body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <div id="grad1"></div>
+    <marquee behavior="scroll" direction="left">شاہ است حسین، بادشاہ است حسین دین است حسین، دین پناہ است حسین</marquee>
+    <div id="grad2"></div>
+    <marquee behavior="scroll" direction="right">سر داد، نہ داد، دست در دست یزید حق کے بغیر لا الہٰی است حسینسر داد، نہ داد، دست در دست یزید حق کے بغیر لا الہٰی است حسین</marquee><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Simple Website</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to CSS file -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffc107;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            font-weight: bold;
+            color: white;
+            font-size: 15px; /* Adjust the size as needed */
+        }
+        #grad1, #grad2 {
+            width: 100%;
+            height: 50px;
+            margin-bottom: 20px;
+        }
+        #grad1 {
+            background-image: linear-gradient(orange, Green,yellow,black);
+        }
+        #grad2 {
+            background-image: linear-gradient(Green, Red,yellow,black);
+        }
+        marquee {
+            font-weight: bold;
+        }
+        .imam-name {
+            display: inline-block;
+            padding: 15px;/* block size /*
+            margin: 15px;
+            border-radius: 5px;
+            color: White ;
+            background-color: #17a2b8 ; /* Default background color */
+        }
+        .profile {
+            display: flex;
+            flex-direction: column;
+            align-items: ;
+            text-align: center;
+            margin: 20px 0;
+        }
+        .profile img {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            border-radius: 10%;
+           
+            width: 200px;
+            height: 100px;
+            margin-bottom: 30px;
+        }
+        .profile h1 {
+            margin: 10;
+        }
+        nav {
+            background-color: #8bc34a;
+            padding: 50px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 25px;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        nav a:hover {
+            color: #f1f1f1;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #4caf50;
+            color: blue;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 88%;
+            bottom: 0;
+        }
+        
+
+    </style>
+</head>
+<body>
+    <header>
+        <h2> شجرہ بنی ہاشم  </h2>
+    </header>
+   <div id="grad1"></div>          
+       
+       </li>
+            <li>
+                 <marquee behavior="scroll" direction="right"><span class="imam-name" style="background-color: #f8f9fa;">Quraish</span></marquee> .                     
+                 <a href="https://www.wikitree.com/wiki/Ibn_Khuzaymah-1">Ibn_Khuzayma</a>, 
+                 <a href="">An-Nadr ibn Kinānah</a>,
+                 <a href="">Mālik ibn an-Naḍr</a>,
+                 <a href="">Fihr ibn Mālik</a>,
+                 <a href="">Ghālib ibn Fihr</a>,
+                 <a href="">Lu'ayy ibn Ghalib</a>,
+                 <a href="">Ka'b ibn Lu'ayy</a>,
+                 <a href="">Murrah</a>,
+                 <a href="">Kilab</a>,<a href="">Fatima bint sa'd W/0 Kilab</a>,
+                 <a href="">Hind bint Surayr</a>,
+                 <a href="">Zuhrah ibn Kilab (son)</a>, <a href="https://en.wikishia.net/view/Qusayy_b._Kilab">Qusayy_b._Kilab (father) fatima Bint Sa'd</a>,
+                 <a href="">Qusai ibn Kilab </a>,   <a href="">Hubba bint Hulail (mother)</a>,
+     
+     <div id="grad1"></div>
+      </li>
+           <li>
+             
+                <marquee behavior="scroll" direction="left"><span class="imam-name" style="background-color: #ffc107;">Abd Manaf ibn Qusai</span></marquee> .                     
+                
+                 <a href="">Abd Manaf ibn Qusai</a>,
+                 <a href="">Rayta bint Ku'ayb w/o Abd Munaf</a>, <a href="">Atikah bint Murrah Wife of Abd munaf</a>,
+                 
+                 <a href="">Abd Shams (son) Abd Munaf</a>, <a href="">Umayya ibn Abd Shams</a>,
+                  
+                 <a href="">Waqidah bint Amr w/o Abd Munaf</a>, <a href="">Nawfal (son)</a>,     
+     
+     <div id="grad1"></div>
+      </li>
+           <li>
+     
+                 <marquee behavior="scroll" direction="right"><span class="imam-name" style="background-color: #28a745;"> Hazarat Hashim </span></marquee> .
+                 <a href="https://en.wikishia.net/view/Hashim_b._Abd_Manaf">Hashim (son) Ibn Abd Munaf</a>, <a href="">Salma bint Amr w/o Hashim</a>,
+                 
+                 
+        
+                 <a href="">1-Asad ibn Hashim</a>,
+                 
+                 <a href="">*****Fatima Bint Asad*****</a>,
+                 
+                    <a href="">2-Zaifah binte Hashim</a>,
+                 <a href="">3-Janna binte Hashim</a>,
+                 
+                 <a href="">4-Ramlah binte Hashim</a>,
+                 <a href="">5-Hayyah binte Hashim</a>,
+                 
+                 <a href="">6-Da'ifah binte Hashim</a>,
+                 <a href="">7-Sayfah bin Hashim</a>,
+                 
+                 <a href="">8-Abbas bin Hashim</a>,
+                 <a href="">9-Abu Sayr bin Hashim</a>,
+              
+                 <a href="">10-Hannah binte Hashim ( Umar  khatab  Mother)***</a>,
+       
+       <div id="grad1"></div>
+      </li>
+           <li>
+       
+                <marquee behavior="scroll" direction="right"><span class="imam-name" style="background-color: #6F42C1;">Abdul Mttalib Family Tree </span> </marquee> .                              
+                 
+                 <a href="https://en.m.wikipedia.org/wiki/Abd_al-Muttalib">Abd al-Muttalib (Shayba )  Ibn Hashim</a>,<a href="https://en.m.wikipedia.org/wiki/Sumra_bint_Jundab">Sumra bint Jundab,was the first wife of Abd al-Muttalib</a>,
+                
+                 
+                <a href="https://en.m.wikipedia.org/wiki/Al-Harith_ibn_Abd_al-Muttalib">1- Harith Abd al Muttalib (son of Sumaira)</a>,  <a href="https://en.m.wikipedia.org/wiki/Abu_Sufyan_ibn_al-Harith">Abu Sufyan Ibn Al Harith</a>,
+                
+                <div id="grad1"></div>
+    
+                 <a href="https://en.wikishia.net/view/Abu_Talib">2-Abu Talib ibn Abd al-Muttalib</a>,
+                 <div id="grad1"></div>
+                 <a href="https://en.wikishia.net/view/Abd_Allah_b._Abd_al-Muttalib">3-Abdullah ibn Abd al-Muttalib</a>,
+                 <a href="">4-Umm Hakim (Daughter of Fatima) Abd  al Muttalib </a>,
+                 
+                 <a href="">5-Barrah (Daughter of Fatima) Abd al Muttalib</a>,
+                 
+                <a href="">6-Arwa (Daughter of Fatima) Abd al Muttalib</a>,
+                 <a href="">7-Atika (Daughter of Fatima) Abd al Muttalib</a>,
+                
+                 <a href="">8-Umayma (Daughter of Fatima) Abd al Muttalib</a>,
+                 <a href="">-Natīlah bint Khubāb: w/o Abd al Muttalib</a>,
+                                   
+                 <a href="https://en.wikishia.net/view/Hamza_b._Abd_al-Muttalib">Hazrat Hamza  Abd al Muttalib</a>
+                 
+                <marquee behavior="scroll" direction="left"><span class="imam-name" style="background-color: #f8f9fa;"> Abbas bd al Muttalib </span> </marquee> . 
+                 <a href="https://en.wikishia.net/view/Al-Abbas_b._Abd_al-Muttalib">1-Abbas son  Natīlah  Abd al Muttalib-</a>,
+                 <a href="">1-Fadl Ibn Abbas Ibn Abd al Muttalib</a>,
+                 
+                 
+                 
+                 
+                 
+                <a href="">2-Abdullah Ibn Abbas Bn Abd al Muttalib</a>,
+                 <a href="">Lubaba w/o AL ABBAS</a>,
+                
+                 <a href="">1-Qutham Ibn Abbas Ibn Abd al Muttalib</a>,
+                 <a href="">Mumanna'a bint 'Amr w/o Abd al Muttalib</a>,
+              <div id="grad1"></div>
+               <marquee behavior="scroll" direction="left"><span class="imam-name" style="background-color: #f8f9fa;"> Abu talib Abd al Muttalib </span> </marquee> . 
+                 
+                 <a href="">1-Ja'far ibn Abi Talib</a>,
+                 <a href="">2-Aqil ibn Abi Talib</a>,
+                <a href="">3-Talib ibn Abi Talib</a>,
+                 
+                 <a href="">5-Jumanah bint Abi Talib Abu W/   Abu Sufyan Al Harith</a>,
+                 <a href="">6-Rayta As Asma ibn Abi talib</a>,
+                
+                 <a href="">7- Fakhitah bint Abi Talib  W/O Hubayra ibn Abi Wahb
+ Umi Hani</a>,
+                 <a href=""></a>,
+                 
+                 <a href=""></a>,
+                 <a href=""></a>,
+                  
+               <div id="grad1"></div>
+      </li>
+           <li>   
+                 
+                 <a href=""></a>,
+                 
+                 <a href=""></a>,
+                 <a href=""></a>,
+                
+                 <a href=""></a>,
+                 <a href=""></a>,
+                 
+                 <a href=""></a>,
+                 <a href=""></a>,
+                 
+ <div id="grad1"></div>
+      </li>
+           <li>
+
+                 <a href=""></a>,
+                 
+                <a href=""></a>,
+                 <a href="></a>,
+                
+                 <a href=""></a>,
+                 <a href=""></a>,
+                 
+                 <a href=""></a>,
+                 <a href=""></a>,
+
+                 <a href=""></a>,
+                 
+                 <a href=""></a>,
+                 <a href=""></a>,
+                
+                 <a href=""></a>,
+                 <a href=""></a>,
+                 
+                 <a href=""></a>,
+                 <a href=""></a>,
+                 <a href=""></a>,
+                 <a href="></a>,
+                
+                 <a href=""></a>,
+                 <a href=""></a>,
+                 
+                 <a href=""></a>,
+                 <a href=""></a>,
+
+                 <a href=""></a>,
+                 
+                <a href=""></a>,
+                 <a href=""></a>,
+                
+                 <a href=""></a>,
+                 <a href=""></a>,
+                 
+                 <a href=""></a>,
+                 <a href=""></a>,
+                 
+                <a href=""></a>,
+                 <a href="></a>,
+                
+                 <a href=""></a>,
+                 <a href=""></a>,
+                 
+                 <a href=""></a>,
+                 <a href=""></a>,
+
+                 <a href=""></a>,
+                 
+                 <a href=""></a>,
+                 <a href=""></a>,
+                
+                 <a href=""></a>,
+                 <a href=""></a>,
+                 
+                 <a href=""></a>,
+                 <a href=""></a>,
+                  
+         <div id="grad1"></div>
+      </li>
+           <li>                          
+         
+                 <marquee behavior="scroll" direction="left"><span class="imam-name" style="background-color: #6F42C1;">6th Imam Jaffer e Saddaq</span></marquee> .                     
+                 <a href="https://en.wikishia.net/view/Imam_Ali_b._Abi_Talib_(a)">Imam Jaffer e Saddaq</a>,
+                 <a href="https://www.google.com">Hazrat Ismail</a>,
+  <div id="grad1"></div>
+      </li>
+           <li>
+          
+                 <marquee behavior="scroll" direction="right"><span class="imam-name" style="background-color: #6F42C1;">6th Imam Jaffer e Saddaq</span></marquee> .                      
+                 <a href="https://en.wikishia.net/view/Imam_Ali_b._Abi_Talib_(a)">Imam Jaffer e Saddaq</a>,
+                 <a href="https://www.google.com">Hazrat Ismail</a>,
+   <div id="grad1"></div>
+      </li>
+           <li>
+                 <marquee behavior="scroll" direction="left"><span class="imam-name" style="background-color: #6F42C1;">6th Imam Jaffer e Saddaq</span></marquee>  .                    
+                 <a href="https://en.wikishia.net/view/Imam_Ali_b._Abi_Talib_(a)">Imam Jaffer e Saddaq</a>,
+                 <a href="https://www.google.com">Hazrat Ismail</a>,
+ 
+  <div id="grad1"></div>
+      </li>
+           <li>    
+                 <marquee behavior="scroll" direction="right"><span class="imam-name" style="background-color: #6F42C1;">6th Imam Jaffer e Saddaq</span></marquee> .                     
+                 <a href="https://en.wikishia.net/view/Imam_Ali_b._Abi_Talib_(a)">Imam Jaffer e Saddaq</a>,
+                 <a href="https://www.google.com">Hazrat Ismail</a>,
+          
+            <div id="grad1"></div>
+      </li>
+           <li>
+                 <marquee behavior="scroll" direction="lefy"><span class="imam-name" style="background-color: #6F42C1;">6th Imam Jaffer e Saddaq</span></marquee> .                     
+                 <a href="https://en.wikishia.net/view/Imam_Ali_b._Abi_Talib_(a)">Imam Jaffer e Saddaq</a>,
+                 <a href="https://www.google.com">Hazrat Ismail</a>,
+ 
+</head>
+
+<body>
+    <header>
+    
+        <h1>شجرہ چہاردہ معصومین</h1>
+    </header>
+    
+   <div id="grad2"></div>    
+        <ul>
+
+          
+           <div id="grad1"></div>
+      </li>
+           <li>
+                <marquee behavior="scroll" direction="left"><span class="imam-name" style="background-color: #ffc107;">1st Imam Ali Murtaza!</span></marquee> 
+                <a href="https://en.wikishia.net/view/Imam_Ali_b._Abi_Talib_(a)">Imam Ali</a>,
+   <div id="grad1"></div>
+      </li>
+           <li>
+                <marquee behavior="scroll" direction="right"><span class="imam-name" style="background-color:#f8f9fa #28A745;">2nd Imam Hassan Mujtaba!</span></marquee>
+                <a href="https://en.wikishia.net/view/Imam_al-Hasan_b._Ali_al-Mujtaba_(a)">Imam Hassan</a>,
+                <a href="https://en.wikishia.net/view/Al-Qasim_b._al-Imam_al-Hasan_(a)">Hazrat Qasim</a>,
+                <a href="https://en.wikishia.net/view/Al-Hasan_al-Muthanna">Hazrat Al-Hasan al-Muthanna</a>,
+                <a href="https://en.wikishia.net/view/Abd_Allah_b._al-Hasan_al-Muthanna">Hazrat Abd Allah b. al-Hasan al-Muthanna</a>,
+                <a href="https://en.wikishia.net/view/Muhammad_b._Abd_Allah_b._al-Hasan">Hazrat Muhammad b. Abd Allah b. al-Hasan</a>,
+                <a href="https://en.m.wikipedia.org/wiki/Abdullah_Shah_Ghazi">Hazrat Abdullah Shah Ghazi</a>,
+                <a href="https://en.wikishia.net/view/Ibrahim_b._Abd_Allah_al-Mahd">Hazrat Ibrahim b. Abd Allah al-Mahd</a>,
+                <a href="https://en.wikishia.net/view/Zayd_b._al-Imam_al-Hasan_(a)">Hazrat Zayd b. al-Imam al-Hasan (a)</a>,
+                <a href="https://en.wikishia.net/view/Al-Hasan_b._Zayd_b._al-Hasan">Hazrat Al-Hasan b. Zayd b. al-Hasan</a>,
+            <div id="grad1"></div>
+      </li>
+           <li>
+                <marquee behavior="scroll" direction="left"><span class="imam-name" style="background-color: #DC3545;">3rd Imam Hussain!</span></marquee>
+                <a href="https://en.wikishia.net/view/Imam_al-Husayn_b._Ali_(a)">Imam Hussain</a>,
+                <a href="https://en.wikishia.net/view/%27Ali_al-Akbar_(a)">Hazrat Ali Akber</a>,
+                <a href="https://en.wikishia.net/view/Abd_Allah_b._al-Imam_al-Husayn_(a)">Hazrat Ali Asghar</a>,
+                <a href="https://en.wikishia.net/view/Fatima_bt._al-Imam_al-Husayn_(a)">Hazrat Fatima Sughra</a>,
+                <a href="https://en.wikishia.net/view/Sukayna_bt._al-Imam_al-Husayn_(a)">Hazrat Sukeena</a>,
+                <a href="https://en.wikishia.net/view/Ruqayya_bt._al-Imam_al-Husayn_(a)">Hazrat Rukkaiya</a>,
+           <div id="grad1"></div>
+      </li>
+           <li>
+                <marquee behavior="scroll" direction="right"><span class="imam-name" style="background-color: #FFC107;">4th Imam al-Sajjad!</span></marquee>
+                <a href="https://en.wikishia.net/view/Imam_Ali_b._al-Husayn_al-Sajjad_(a)">Zain ul Abadeen</a>,
+                <a href="https://en.wikishia.net/view/Zayd_b._al-Imam_al-Sajjad_(a)">Hazrat Zayad</a>,
+           <div id="grad1"></div>
+      </li>
+           <li>
+                <marquee behavior="scroll" direction="left"><span class="imam-name" style="background-color: #17A2B8;">5th Imam Baqir!</span></marquee>               
+                <a href="https://en.wikishia.net/view/Imam_Ali_b._Abi_Talib_(a)">Imam Baqar</a>,
+                <a href="https://en.wikishia.net/view/Sultan_%27Ali_b._al-Imam_al-Baqir_(a)">Hazrat Ali bin Baqar</a>,
+          <div id="grad1"></div>
+      </li>
+           <li>
+                <marquee behavior="scroll" direction="right"><span class="imam-name" style="background-color: #6F42C1;">6th Imam Jaffer e Saddaq</span></marquee>                     
+                <a href="https://en.wikishia.net/view/Imam_Ali_b._Abi_Talib_(a)">Imam Jaffer e Saddaq</a>,
+                <a href="https://www.google.com">Hazrat Ismail</a>,
+           <div id="grad1"></div>
+      </li>
+           <li>
+                <marquee behavior="scroll" direction="left"><span class="imam-name" style="background-color: #007BFF;">7th Imam Moosa Kazim</span></marquee>               
+                <a href="https://en.wikishia.net/view/Imam_al-Hasan_b._Ali_al-Mujtaba_(a)">Imam Moosa Kazim</a>,
+           <div id="grad1"></div>
+      </li>
+           <li>
+          
+                <marquee behavior="scroll" direction="Right"><span class="imam-name" style="background-color: #28A745;">8th Imam Raza</span></marquee>               
+                <a href="https://example3.com">Imam Raza</a>,
+          <div id="grad1"></div>
+      </li>
+           <li>
+                <marquee behavior="scroll" direction="left"><span class="imam-name" style="background-color: #DC3545;">9th Imam Taqi A Jawad</span></marquee>               
+                <a href="https://example4.com">Imam Taqi</a>,
+          <div id="grad1"></div>
+      </li>
+           <li>
+                <marquee behavior="scroll" direction="right"><span class="imam-name" style="background-color: #FFC107;">10th Imam Ali Naqi</span></marquee>               
+                <a href="https://en.wikishia.net/view/Imam_Ali_b._Abi_Talib_(a)">Imam Ali Naqi</a>,
+           <div id="grad1"></div>
+      </li>
+           <li>
+                <marquee behavior="scroll" direction="left"><span class="imam-name" style="background-color: #17A2B8;">11th Imam Hassan Askari</span></marquee>                        
+                <a href="https://en.wikishia.net/view/Imam_al-Hasan_b._Ali_al-Mujtaba_(a)">Imam Hassan Askari</a>,
+            <div id="grad1"></div>
+      </li>
+           <li>
+                <marquee behavior="scroll" direction="right"><span class="imam-name" style="background-color: #6F42C1;">12th Hazrat Imam Mahdi (aj)</span></marquee>                 
+                <a href="https://en.wikishia.net/view/End_Time">Imam Hazrat Imam Mahdi (aj)</a>,
+             <div id="grad1"></div>
+      </li>
+           <li>
+                <marquee behavior="scroll" direction="left"><span class="imam-name" style="background-color: #6F42C1;">Hashim (aj)</span></marquee>                 
+                <a href="https://en.wikishia.net/view/End_Time">Hashim (aj)</a>,
+                
+            </li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="home">
+            <h3>Welcome to My Website</h3>
+            <p>This is the home page content. History of  Banu Hashim , Banu Quraish &  12th  Imam and all muslim Emperier  Courtesy to Wiki Shia & Wiki Tree</p>
+        </sectio
+
+        <section id="about">
+            <!-- Add content here if needed -->
+        </section>
+        
+        <section id="contact">
+            <h3>Contact Us</h3>
+            <p>Contact Number: +92 3002351026</p> <!-- Add your contact number here -->
+            
+            
+           
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohammad Raza</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0 0 60px 0; /* Added bottom padding */
+            background-color: #e9f5db;
+            color: #333;
+        }
+        header {
+            background-color: #4caf50;
+            color: white;
+            padding: 100px 20px;
+            text-align: center;
+            position: relative;
+        }
+        header img {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            border-radius: 20%;
+            width: 100px;
+            height: 100px;
+        }
+        nav {
+            background-color: #8bc34a;
+            padding: 10px;
+            text-align: left;
+        }
+        nav a {
+            color: red;
+            margin: 0 15px;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        nav a:hover {
+            color: #f1f1f1;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #4caf50;
+            color: red;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 98%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://i.imgur.com/7oUlkbu.jpeg" alt="Photo">
+        <h1>Mohammad Raza</h1>
+        <p>Learning AI, Web Development, and TypeScript</p>
+        
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#contact">Contact</a>
+        <a href="#blog">Blog</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I am Mohammad Raza, actively involved in learning Artificial Intelligence, Web Development, and TypeScript. I am also a part of the Governor Sindh IT Initiative, aiming to contribute to the technological advancements in our region.</p>
+    </section>
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Coming soon! Stay tuned for updates on my projects and contributions.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>You can reach me at: <a href="mailto:your-email@example.com">asimr6573@gmail.com</a></p>
+    </section>
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Check back here for my latest blog posts on AI, Web Development, and more!</p>
+   
+    </section>
+    <footer>
+        <p>&copy; 2024 Mohammad Raza</p>
+    </footer>
+    <script>
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>
+   
+           
+           
